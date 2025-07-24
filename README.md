@@ -10,7 +10,7 @@ I’m currently sharpening my skills in LLMs, MLOps, and cloud tools like Azure,
 When I’m not immersed in data or modeling workflows, you might find me exploring nature, solving puzzles, watching sci-fi movies, or diving into podcasts about AI and innovation.
 
 ## 🎯 My Expertise
-💡 Machine Learning & NLP
+### 💡 Machine Learning & NLP
 
 Deep Learning: ANN, RNN, CNN
 
@@ -22,7 +22,7 @@ Unsupervised Learning: K-Means, DBSCAN
 
 Large Language Models: Hugging Face Transformers, LLaMA, LangChain, fine-tuning
 
-📊 Analytics & Data Science Tools
+### 📊 Analytics & Data Science Tools
 
 Python, SQL, R
 
@@ -32,7 +32,7 @@ Experiment Tracking: MLflow, Weights & Biases
 
 Model Deployment: Gradio, Streamlit, FastAPI
 
-🔧 Python Libraries
+### 🔧 Python Libraries
 
 Data & Modeling: pandas, numpy, scikit-learn, PyTorch, XGBoost, statsmodels
 
@@ -46,7 +46,7 @@ Causal Inference: causalml, dowhy
 
 Web/Data Tools: requests, BeautifulSoup, pydantic
 
-☁️ Platforms & Infrastructure (Learning & Applying)
+### ☁️ Platforms & Infrastructure (Learning & Applying)
 
 Microsoft Azure, AWS (S3, EC2, SageMaker), Databricks
 
@@ -54,7 +54,7 @@ Apache Airflow for data pipelines
 
 Docker & GitHub Actions (CI/CD)
 
-🚀 What I’m Working On
+### 🚀 What I’m Working On
 Fine-tuning LLMs for domain-specific tasks (Q&A, Summarization, Resume Matching)
 
 Building end-to-end data + ML pipelines with Airflow + Spark + MLflow
