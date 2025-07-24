@@ -1,4 +1,4 @@
-#👋 Hi, I'm Marzieh#
+#👋 Hi, I'm Marzieh
 
 🌱 About Me
 I'm a data-driven problem solver and aspiring AI/ML engineer, currently completing my Master's degree at UBC, where I’m developing my thesis while continuously expanding my technical toolkit. Before coming to Canada, I worked as a Senior Data Analyst and Business Intelligence Analyst in Iran, delivering actionable insights and decision-support tools across multiple industries.
