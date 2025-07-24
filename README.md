@@ -9,7 +9,7 @@ I’m currently sharpening my skills in LLMs, MLOps, and cloud tools like Azure,
 
 When I’m not immersed in data or modeling workflows, you might find me exploring nature, solving puzzles, watching sci-fi movies, or diving into podcasts about AI and innovation.
 
-🎯 My Expertise
+## 🎯 My Expertise
 💡 Machine Learning & NLP
 
 Deep Learning: ANN, RNN, CNN
