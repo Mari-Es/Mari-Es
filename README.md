@@ -24,43 +24,43 @@ When I’m not immersed in data or modeling workflows, you might find me explori
 
 #### 📊 Analytics & Data Science Tools
 
-Python, SQL, R
+* Python, SQL, R
 
-Power BI, Metabase, Jupyter, VS Code
+* Power BI, Metabase, Jupyter, VS Code
 
-Experiment Tracking: MLflow, Weights & Biases
+* Experiment Tracking: MLflow, Weights & Biases
 
-Model Deployment: Gradio, Streamlit, FastAPI
+* Model Deployment: Gradio, Streamlit, FastAPI
 
 #### 🔧 Python Libraries
 
-Data & Modeling: pandas, numpy, scikit-learn, PyTorch, XGBoost, statsmodels
+* Data & Modeling: pandas, numpy, scikit-learn, PyTorch, XGBoost, statsmodels
 
-NLP: nltk, transformers, sentence-transformers, spacy
+* NLP: nltk, transformers, sentence-transformers, spacy
 
-Optimization: gurobipy, scipy.optimize
+* Optimization: gurobipy, scipy.optimize
 
-Visualization: matplotlib, seaborn, plotly
+* Visualization: matplotlib, seaborn, plotly
 
-Causal Inference: causalml, dowhy
+* Causal Inference: causalml, dowhy
 
-Web/Data Tools: requests, BeautifulSoup, pydantic
+* Web/Data Tools: requests, BeautifulSoup, pydantic
 
 #### ☁️ Platforms & Infrastructure (Learning & Applying)
 
-Microsoft Azure, AWS (S3, EC2, SageMaker), Databricks
+* Microsoft Azure, AWS (S3, EC2, SageMaker), Databricks
 
-Apache Airflow for data pipelines
+* Apache Airflow for data pipelines
 
-Docker & GitHub Actions (CI/CD)
+* Docker & GitHub Actions (CI/CD)
 
 #### 🚀 What I’m Working On
-Fine-tuning LLMs for domain-specific tasks (Q&A, Summarization, Resume Matching)
+* Fine-tuning LLMs for domain-specific tasks (Q&A, Summarization, Resume Matching)
 
-Building end-to-end data + ML pipelines with Airflow + Spark + MLflow
+* Building end-to-end data + ML pipelines with Airflow + Spark + MLflow
 
-Deploying models using Hugging Face Spaces, Streamlit, and Docker
+* Deploying models using Hugging Face Spaces, Streamlit, and Docker
 
-Contributing to open-source NLP and MLOps tools
+* Contributing to open-source NLP and MLOps tools
 
-Preparing for full-time roles as a Data Scientist / ML Engineer post-defense
+* Preparing for full-time roles as a Data Scientist / ML Engineer post-defense
