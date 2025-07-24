@@ -12,15 +12,15 @@ When I’m not immersed in data or modeling workflows, you might find me explori
 ## 🎯 My Expertise
 #### 💡 Machine Learning & NLP
 
-Deep Learning: ANN, RNN, CNN
+* Deep Learning: ANN, RNN, CNN
 
-Natural Language Processing: Sentiment Analysis, TF-IDF, Word2Vec, BERT, Transformers
+* Natural Language Processing: Sentiment Analysis, TF-IDF, Word2Vec, BERT, Transformers
 
-Predictive Modeling: Regression, Classification, Random Forest, XGBoost, LightGBM
+* Predictive Modeling: Regression, Classification, Random Forest, XGBoost, LightGBM
 
-Unsupervised Learning: K-Means, DBSCAN
+* Unsupervised Learning: K-Means, DBSCAN
 
-Large Language Models: Hugging Face Transformers, LLaMA, LangChain, fine-tuning
+* Large Language Models: Hugging Face Transformers, LLaMA, LangChain, fine-tuning
 
 #### 📊 Analytics & Data Science Tools
 
