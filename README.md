@@ -20,7 +20,7 @@ When I’m not immersed in data or modeling workflows, you might find me explori
 
 * Unsupervised Learning: K-Means, DBSCAN
 
-* Large Language Models: Hugging Face Transformers, LLaMA, LangChain, fine-tuning
+* Large Language Models: Hugging Face Transformers, LLaMA, fine-tuning
 
 #### 📊 Analytics & Data Science Tools
 
