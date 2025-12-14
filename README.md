@@ -63,4 +63,4 @@ When I’m not immersed in data or modeling workflows, you might find me explori
 
 * Contributing to open-source NLP and MLOps tools
 
-* Preparing for full-time roles as a Data Scientist / ML Engineer post-defense
+* Preparing for full-time roles as a Data Scientist / ML Engineer/ Data Engineer post-defense
