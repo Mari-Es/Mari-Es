@@ -60,4 +60,6 @@ Currently, I’m expanding my expertise in **machine learning, deep learning, an
 - Improving forecasting models using hybrid approaches (statistical + ML + DL)  
 - Building scalable ML pipelines with PySpark + Airflow  
 - Applying optimization techniques to real-world decision problems  
+- Developing LLM-based applications (e.g., Q&A, summarization, evaluation systems)  
 - Expanding cloud-based ML workflows (Azure, Databricks)  
+
