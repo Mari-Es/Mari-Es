@@ -1,66 +1,63 @@
 # 👋 Hi, I'm Marzieh
 
 ## 🌱 About Me
-I'm a data-driven problem solver and aspiring AI/ML engineer, currently completing my Master's degree at UBC, where I’m developing my thesis while continuously expanding my technical toolkit. I worked as a Senior Data Analyst and Business Intelligence Analyst, delivering actionable insights and decision-support tools across multiple industries.
+I’m a Data Scientist with 6+ years of experience and a Master’s in Engineering from the University of British Columbia (UBC), specializing in **forecasting, time-series analysis, and mathematical modeling**.
 
-I’m most energized when working at the intersection of data science, machine learning, and real-world impact — whether it's training a large language model, building smart data pipelines, or deploying scalable solutions on the cloud.
+My work focuses on building **predictive models and data-driven decision systems** that support pricing, demand planning, and business optimization. I enjoy translating complex quantitative models into actionable insights with real-world impact.
 
-I’m currently sharpening my skills in LLMs, MLOps, and cloud tools like Azure, AWS, and Databricks, while contributing to open-source projects and building my portfolio through real-world applications in NLP, recommendation systems, and ML pipelines.
+I have industry experience as a Senior Data Analyst across healthcare and e-commerce, where I developed forecasting models, designed experiments, and built scalable data pipelines.
 
-When I’m not immersed in data or modeling workflows, you might find me exploring nature, solving puzzles, watching sci-fi movies, or diving into podcasts about AI and innovation.
+Currently, I’m expanding my expertise in **machine learning, deep learning, and scalable data systems (Azure, Databricks, PySpark)** while building projects in forecasting, optimization, and applied ML.
 
-## 🎯 My Expertise
-#### 💡 Machine Learning & NLP
+---
 
-* Deep Learning: ANN, RNN, CNN
+## 🎯 Core Expertise
 
-* Natural Language Processing: Sentiment Analysis, TF-IDF, Word2Vec, BERT, Transformers
+### 📈 Forecasting & Mathematical Modeling
+- Time-Series Modeling: ARIMA, SARIMAX, Prophet  
+- Demand Forecasting & Trend/Seasonality Modeling  
+- Regression & Statistical Modeling  
+- Optimization & Decision Modeling  
+- Modeling under Uncertainty & Scenario Analysis  
 
-* Predictive Modeling: Regression, Classification, Random Forest, XGBoost, LightGBM
+---
 
-* Unsupervised Learning: K-Means, DBSCAN
+### 🤖 Machine Learning & Data Science
+- Supervised Learning: Regression, Classification  
+- Ensemble Models: XGBoost, Random Forest  
+- Deep Learning: Neural Networks (PyTorch)  
+- Feature Engineering & Model Evaluation  
+- Experimentation & A/B Testing  
 
-* Large Language Models: Hugging Face Transformers, LLaMA, fine-tuning
+---
 
-#### 📊 Analytics & Data Science Tools
+### ⚙️ Data & Engineering
+- Python, SQL, R  
+- PySpark, Airflow (data pipelines)  
+- Data Warehousing: Snowflake, PostgreSQL  
+- Cloud: Azure, AWS, Databricks  
+- Visualization: Power BI  
 
-* Python, SQL, R
+---
 
-* Power BI, Metabase, Jupyter, VS Code
+## 🚀 Featured Work (Focus Areas)
+- 📊 Demand Forecasting Models (Time-Series + ML)  
+- 📈 Pricing & Revenue Optimization Analytics  
+- 🔄 End-to-End ML Pipelines (Data → Model → Deployment)  
+- 🧪 Experimentation & Causal Analysis (A/B Testing)  
 
-* Experiment Tracking: MLflow, Weights & Biases
+---
 
-* Model Deployment: Gradio, Streamlit, FastAPI
+## 🔧 Tools & Libraries
+- **Data & Modeling:** pandas, numpy, scikit-learn, statsmodels, PyTorch, XGBoost  
+- **Optimization:** gurobipy, scipy.optimize  
+- **Visualization:** matplotlib, plotly  
+- **Pipelines & Deployment:** Airflow, Docker, FastAPI  
 
-#### 🔧 Python Libraries
+---
 
-* Data & Modeling: pandas, numpy, scikit-learn, PyTorch, XGBoost, statsmodels
-
-* NLP: nltk, transformers, sentence-transformers, spacy
-
-* Optimization: gurobipy, scipy.optimize
-
-* Visualization: matplotlib, seaborn, plotly
-
-* Causal Inference: causalml, dowhy
-
-* Web/Data Tools: requests, BeautifulSoup, pydantic
-
-#### ☁️ Platforms & Infrastructure (Learning & Applying)
-
-* Microsoft Azure, AWS (S3, EC2, SageMaker), Databricks
-
-* Apache Airflow for data pipelines
-
-* Docker & GitHub Actions (CI/CD)
-
-#### 🚀 What I’m Working On
-* Fine-tuning LLMs for domain-specific tasks (Q&A, Summarization, Resume Matching)
-
-* Building end-to-end data + ML pipelines with Airflow + Spark + MLflow
-
-* Deploying models using Hugging Face Spaces, Streamlit, and Docker
-
-* Contributing to open-source NLP and MLOps tools
-
-* Preparing for full-time roles as a Data Scientist / ML Engineer/ Data Engineer post-defense
+## 🚀 Currently Working On
+- Improving forecasting models using hybrid approaches (statistical + ML + DL)  
+- Building scalable ML pipelines with PySpark + Airflow  
+- Applying optimization techniques to real-world decision problems  
+- Expanding cloud-based ML workflows (Azure, Databricks)  
